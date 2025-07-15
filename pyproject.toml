@@ -1,0 +1,5 @@
+[project]
+name = "investment-team"
+version = "0.1.0"
+description = "Multi-agent investment team powered by Agno and Gemini — 7 AI analysts collaborate across 5 architectures to deploy a $10M equity portfolio"
+requires-python = ">=3.10"
